@@ -1,4 +1,6 @@
-<h1 align="center">Software Developer & Maths</h>
+<h1 align="center">Software Developer</h1>
+<h2 align="center">Yıldız Teknik Üniversitesi</h2>
+<h3 align="center">MATEMATİK</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
