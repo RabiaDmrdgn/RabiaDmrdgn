@@ -1,4 +1,4 @@
-<h2 align="center">Software Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 <h3 align="center">Yıldız Teknik Üniversitesi</h3>
 <h3 align="center">Matematik</h3>
 
